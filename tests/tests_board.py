@@ -1,7 +1,6 @@
 from project.board import Board
 import pytest
 
-
 @pytest.mark.parametrize('test_input, expected', [
     (2, True), (1, False), (10, False), (0, False), (-1, False)])
 def test_check_move(test_input, expected):

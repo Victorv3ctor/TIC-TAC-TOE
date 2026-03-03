@@ -1,4 +1,4 @@
-# 🎮 Tic-Tac-Toe — Python (OOP + Pytest)
+# 🎮 Tic-Tac-Toe
 
 A clean and fully tested **console-based Tic-Tac-Toe game** written in **Python**, built with a strong focus on **object-oriented design**, **clean architecture**, and **unit testing**.
 
